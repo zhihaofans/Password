@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">密码本</string>
+    <string name="action_settings">设置</string>
+    <string name="action_export">导出</string>
+    <string name="text_title">标题</string>
+    <string name="text_account">账号</string>
+    <string name="text_password">密码</string>
+    <string name="text_site">站点</string>
+    <string name="text_packagename">包名</string>
+    <string name="text_appname">应用名</string>
+    <string name="text_edit">编辑</string>
+    <string name="text_addnew">新增</string>
+    <string name="text_loaded">载入完毕</string>
+    <string name="text_save">保存</string>
+    <string name="text_remove">删除</string>
+    <string name="text_finish">完毕</string>
+    <string name="text_plzCopy">请手动复制</string>
+    <string name="action_import">导入</string>
+    <string name="text_initPassword">初始化</string>
+</resources>
